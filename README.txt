@@ -7,8 +7,12 @@
 Main workspace and document root is at 
 /home/dev/workspace
 
-A live instance of Drupal+CIS is at
+A live instance of Drupal+CIS will be setup at
 /home/dev/workspace/cis
+
+Apache logs are also located at
+/home/dev/workspace/access.log
+/home/dev/workspace/error.log
 
 -----SETUP----
 Go to /home/dev/geomemes and run 'setup.sh'

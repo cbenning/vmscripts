@@ -79,7 +79,7 @@ projects[] = adminrole
 projects[] = backup_migrate
 projects[] = pathauto
 projects[] = token
-projects[] = spacial
+projects[] = spatial
 projects[] = schema
 
 
